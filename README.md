@@ -2,6 +2,14 @@
 
 > Utilities for making Cypress plugin configuration easier
 
+## Install
+
+TODO
+
+## Use
+
+TODO
+
 ## Small print
 
 Author: Gleb Bahmutov &lt;gleb.bahmutov@gmail.com&gt; &copy; 2022
