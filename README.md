@@ -10,6 +10,10 @@ TODO
 
 TODO
 
+## See also
+
+- [cypress-data-session](https://github.com/bahmutov/cypress-data-session)
+
 ## Small print
 
 Author: Gleb Bahmutov &lt;gleb.bahmutov@gmail.com&gt; &copy; 2022
