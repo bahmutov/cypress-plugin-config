@@ -4,11 +4,28 @@
 
 ## Install
 
-TODO
+```
+$ npm install cypress-plugin-config
+```
 
 ## Use
 
-TODO
+Include this plugin from your support file
+
+```js
+import {
+  getPluginConfigValue,
+  setPluginConfigValue,
+} from 'cypress-plugin-config'
+
+// to save a value
+setPluginConfigValue('name', 'Joe')
+
+// to read a value
+getPluginConfigValue('name') // "Joe"
+```
+
+Set and get are synchronous commands.
 
 ## See also
 
