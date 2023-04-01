@@ -1,4 +1,4 @@
-# cypress-plugin-config ![cypress version](https://img.shields.io/badge/cypress-10.3.1-brightgreen) [![ci](https://github.com/bahmutov/cypress-plugin-config/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bahmutov/cypress-plugin-config/actions/workflows/ci.yml)
+# cypress-plugin-config ![cypress version](https://img.shields.io/badge/cypress-12.9.0-brightgreen) [![ci](https://github.com/bahmutov/cypress-plugin-config/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bahmutov/cypress-plugin-config/actions/workflows/ci.yml)
 
 > Utilities for making Cypress plugin configuration easier
 
