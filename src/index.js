@@ -6,7 +6,7 @@ function getPluginConfigValue(key) {
   if (typeof key !== 'string') {
     throw new Error('Expected a config string key')
   }
-  return Cypress._.get(window.top.cypressPluginConfig, key, Cypress.env(key))
+  return Cypress._.get(window.top.cypressPluginConfig, key, Cypress.expose(key))
 }
 
 function setPluginConfigValue(key, value) {

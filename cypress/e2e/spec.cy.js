@@ -32,8 +32,8 @@ describe('Mixture', () => {
 })
 
 describe('fallback', () => {
-  it('falls back on Cypress.env', () => {
-    Cypress.env('randomName', 'XYZ')
+  it('falls back on Cypress.expose', () => {
+    Cypress.expose('randomName', 'XYZ')
     expect(getPluginConfigValue('randomName')).to.equal('XYZ')
   })
 })

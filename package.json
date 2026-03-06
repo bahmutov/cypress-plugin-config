@@ -25,8 +25,8 @@
   },
   "homepage": "https://github.com/bahmutov/cypress-plugin-config#readme",
   "devDependencies": {
-    "cypress": "^12.9.0",
-    "prettier": "^2.7.1",
-    "semantic-release": "^19.0.3"
+    "cypress": "^15.11.0",
+    "prettier": "^3.8.1",
+    "semantic-release": "^25"
   }
 }
